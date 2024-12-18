@@ -1,0 +1,35 @@
+#teacher-search {
+  text-align: center;
+}
+#teacher-search .form .form-group {
+  width: 380px;
+}
+#teacher-search .form select,
+#teacher-search .form input {
+  text-align: left;
+  width: 100%;
+}
+#teacher-search .teacher-search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+#teacher-search .teacher-search-table {
+  background-color: #ffffff;
+  border-top: 1px solid #e0e0e0;
+  padding: 20px;
+}
+#teacher-search .teacher-search-table h4 {
+  text-align: left;
+  margin-top: 0;
+}
+
+.teacher-search-table th:first-child,
+.teacher-search-table td:first-child {
+  width: 5%;
+}
+.teacher-search-table th:last-child,
+.teacher-search-table td:last-child {
+  width: 10%;
+}

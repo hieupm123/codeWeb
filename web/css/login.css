@@ -1,0 +1,11 @@
+.login-container {
+  max-width: 30%;
+  margin: 0 auto;
+  background-color: var(--color-text-white);
+  border: 1px solid var(--color-border);
+  padding: var(--spacing-large);
+
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  text-align: center;
+}
